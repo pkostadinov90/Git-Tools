@@ -1,17 +1,18 @@
-# Component/Section/Template/Feature: What change/fix I've made.
+# Short title (Component/Section/Template/Feature): A short description of the change in a few words
+# ----------This line should not be longer than 72 characters----------;
 
 
-# A short description of the change in a few words. Based on all articles I've read, we should not use more than 72 characters.
+# (optional) Additional information about the change made. Multiple lines are allowed, ending with ;
 
 
 # Asana Task Title here.
 
 
 
-# Git commit template below.
+# Example git commit template below:
 #
 # Git update: update the README.md file with the recent changes.
 #
 # We have to update the Git structure and update the setup details with the new files.
 #
-# Asana task (title): Update your project setup.
+# Asana task: Update your project setup.
